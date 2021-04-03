@@ -1,3 +1,3 @@
-<div>
-  <a href="#">テストですよ</a>
-</div>
+<button>
+ <%= link_to 'ボタン', '#' %>
+</button>
